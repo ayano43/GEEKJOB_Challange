@@ -2,7 +2,7 @@
   String self="ŒŽè@ˆº”T‚Å‚·B‚æ‚ë‚µ‚­‚¨Šè‚¢‚µ‚Ü‚·B"
 
 out.println(self);
-
+%>
 
 
 
