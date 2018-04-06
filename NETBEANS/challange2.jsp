@@ -12,6 +12,11 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1></h1>
+        <%
+            String self="月崎絢乃です。<br>よろしくお願いします。";
+            out.print(self);
+            
+        %>
     </body>
 </html>
